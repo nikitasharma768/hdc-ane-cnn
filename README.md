@@ -4,7 +4,7 @@ Benchmarks a VGG-style CNN on Apple devices (CPU, GPU, Neural Engine) to compare
 its speed and energy against hyperdimensional computing (HDC) results from
 Suresh Babu, Shahryar, and Morris (2026).
 
-**Student:** Nikita Sharma · **Faculty mentor:** Dr. Justin Morris · **Student mentor:** Srivatsan Suresh Babu
+**Student:** Nikita Sharma, Grant Esh· **Faculty mentor:** Dr. Justin Morris · **Student mentor:** Srivatsan Suresh Babu
 California State University San Marcos
 
 ## Pipeline
