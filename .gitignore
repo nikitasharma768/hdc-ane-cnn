@@ -1,0 +1,28 @@
+# Trained models (large, re-create with the scripts)
+CNNModels/
+*.mlpackage
+*.mlmodelc
+*.mlmodel
+*.pt
+
+# Datasets
+data/
+*.data
+*.npy
+*.csv
+NonLinear/
+NonLinear.zip
+__MACOSX/
+
+# Build output
+bench
+*.o
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac and Xcode
+.DS_Store
+xcuserdata/
+DerivedData/
